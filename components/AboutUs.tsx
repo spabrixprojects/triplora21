@@ -32,13 +32,13 @@ const AboutUs = () => {
              Your Trusted Travel Companion
             </h3>
             <p className="text-base sm:text-lg text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-             At Triplora, we believe that travel is more than just reaching a destination—it's about
+             At Triplora, we believe that travel is more than just reaching a destination—it&apos;s about
               experiencing the journey. Founded with a passion for exploration and a commitment to
               exceptional service, Triplora offers tailor-made travel experiences across India and beyond.
             </p>
             <p className="text-base sm:text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-              Whether you're seeking serene escapes, adventurous trails, or cultural immersions, 
-              our expert team crafts personalized itineraries to suit every traveler's dream. With trusted partners, 
+              Whether you&apos;re seeking serene escapes, adventurous trails, or cultural immersions, 
+              our expert team crafts personalized itineraries to suit every traveler&apos;s dream. With trusted partners, 
               seamless planning, and 24/7 support, 
               we turn your travel aspirations into unforgettable memories.
             </p>

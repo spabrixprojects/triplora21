@@ -104,7 +104,7 @@ const Testimonials = () => {
                 >
                    {/* Large Accent Quote */}
                    <div className="text-[120px] font-playfair text-white/10 leading-none absolute top-4 left-4 sm:top-8 sm:left-8 select-none">
-                     "
+                     &quot;
                    </div>
 
                    <div className="relative z-10 w-full lg:w-[600px] max-w-full">

@@ -53,7 +53,7 @@ const Hero = () => {
       </div>
       <div className="absolute right-6 lg:right-10 top-1/2 -translate-y-1/2 rotate-90 origin-center hidden xl:block z-20 mix-blend-overlay">
          <span className="text-white/60 text-[10px] font-semibold tracking-[0.4em] uppercase whitespace-nowrap">
-           India's Premium Travel Studio
+           India&apos;s Premium Travel Studio
          </span>
       </div>
 

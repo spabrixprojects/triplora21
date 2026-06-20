@@ -175,7 +175,7 @@ const Contact = () => {
                   initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} 
                   className="text-green-400 mt-4 flex items-center justify-center gap-2 text-sm font-light"
                 >
-                  <CheckCircle className="w-5 h-5"/> Request beautifully sent. We'll be in touch soon.
+                  <CheckCircle className="w-5 h-5"/> Request beautifully sent. We&apos;ll be in touch soon.
                 </motion.div>
               )}
               {status === 'error' && (

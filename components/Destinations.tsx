@@ -284,7 +284,7 @@ const Destinations = () => {
               className="bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white px-8 py-4 rounded-full text-base font-bold transition-all duration-300 flex items-center gap-2 shadow-xl shadow-orange-500/20"
             >
               <Users className="w-5 h-5" />
-              Can't Decide? Get a Free Consultation
+              Can&apos;t Decide? Get a Free Consultation
               <ArrowRight className="w-4 h-4" />
             </motion.button>
             <span className="text-sm text-gray-400 dark:text-gray-500">

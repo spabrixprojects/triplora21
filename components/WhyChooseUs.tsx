@@ -59,7 +59,7 @@ const WhyChooseUs = () => {
           </h2>
           <div className="w-24 h-1 bg-orange-600 mx-auto mb-6"></div>
           <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            We don't just plan trips, we craft extraordinary journeys that create 
+            We don&apos;t just plan trips, we craft extraordinary journeys that create 
             lasting memories and meaningful connections
           </p>
         </motion.div>
